@@ -43,7 +43,8 @@
             <ImageView
                 android:id="@+id/imageSharedView"
                 android:layout_width="match_parent"
-                android:layout_height="240dp"
+                android:layout_height="170dp"
+                android:background="@color/teal_200"
                 android:src="@drawable/ic_baseline_share_24"
                 app:tint="#2196F3" />
 
